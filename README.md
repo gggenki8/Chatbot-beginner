@@ -1,4 +1,4 @@
 # AI-ChatBot
 
 # 以下のURLから試せます、
-# https://chatbot-beginner-rde2bzcydyarfnupp2noxy.streamlit.app/
+#https://chatbot-beginner-ap6htwxo8hiuf4pvv3ksgx.streamlit.app/
